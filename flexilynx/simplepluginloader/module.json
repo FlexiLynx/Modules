@@ -1,0 +1,4 @@
+{
+    "type": "implementation",
+    "entrypoint": "__entrypoint__.py"
+}
